@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav-9091" alt="sourav-9091" /></a> </p>
 
-- 🔭 I’m currently working on **RapidSync**
+- 🔭 I’m currently working on **CloudCart And Kotlin**
 
-- 🌱 I’m currently learning **Spring Boot, Hibernate, Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
